@@ -1,0 +1,2 @@
+# Run job scrapers every day at 8 AM
+0 8 * * * /home/mehanisik/side-projects/web-crawler/run_scrapers.sh >> /home/mehanisik/side-projects/web-crawler/scraper.log 2>&1

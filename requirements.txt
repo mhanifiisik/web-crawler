@@ -1,4 +1,8 @@
-selenium>=4.15.0
-pandas>=2.0.0
-webdriver-manager>=4.0.0
-colorama>=0.4.6 
+selenium
+beautifulsoup4
+requests
+lxml
+undetected-chromedriver
+pandas
+aiohttp
+loguru
